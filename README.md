@@ -11,5 +11,5 @@
 
 - Created a Data Flow Task in order to connect to the SQL Server Database and insert the extracted files data into a table named DomainWhoIsInfo.
 - Archived the files in order to avoid duplication using the File System Task option.
-- Learnt how to use a script task to write a C# code in order to create a task which sends email notiications to respective users upon package execution status.
+- Learnt how to use a script task to write a C# code in order to create a task which sends email notifications to respective users upon package execution status.
 - Used Event Handlers to configure on error/success email notifications according to the package execution.
